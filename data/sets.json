@@ -1,0 +1,42 @@
+[
+  {
+    "id": "OP01",
+    "name": "Romance Dawn",
+    "releaseDate": "2022-02-11",
+    "totalCards": 68,
+    "description": "The first set of the One Piece Card Game, featuring the Straw Hat Crew and earlygame classics.",
+    "imageUrl": "https://images.pokemontcg.io/op01/symbol.png"
+  },
+  {
+    "id": "OP02",
+    "name": "Paramount War",
+    "releaseDate": "2022-07-01",
+    "totalCards": 63,
+    "description": "Marineford arc themed set featuring Black Beard, Whitebeard, and more.",
+    "imageUrl": "https://images.pokemontcg.io/op02/symbol.png"
+  },
+  {
+    "id": "OP03",
+    "name": "Pillars of Strength",
+    "releaseDate": "2022-12-02",
+    "totalCards": 71,
+    "description": "Beast Pirates and Big Mom lead the charge in this power-focused set.",
+    "imageUrl": "https://images.pokemontcg.io/op03/symbol.png"
+  },
+  {
+    "id": "ST01",
+    "name": "Straw Hat Crew",
+    "releaseDate": "2022-04-24",
+    "totalCards": 20,
+    "description": "Starter deck leader focusing on Red Straw Hat characters and Don!! generation.",
+    "imageUrl": "https://images.pokemontcg.io/st01/symbol.png"
+  },
+  {
+    "id": "ST02",
+    "name": "Worst Generation",
+    "releaseDate": "2022-10-28",
+    "totalCards": 18,
+    "description": "Starter deck featuring the Worst Generation and abolishing mechanics.",
+    "imageUrl": "https://images.pokemontcg.io/st02/symbol.png"
+  }
+]
