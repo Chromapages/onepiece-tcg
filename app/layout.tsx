@@ -15,7 +15,19 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "One Piece TCG Database",
-  description: "Browse and explore the One Piece Trading Card Game catalog",
+  description: "Browse and explore the complete One Piece Trading Card Game catalog. Filter by color, type, character, and more.",
+  keywords: ["One Piece TCG", "One Piece card game", "TCG", "trading cards", "Romance Dawn", "Paramount War"],
+  openGraph: {
+    title: "One Piece TCG Database",
+    description: "Complete One Piece TCG card catalog with search and filtering",
+    type: "website",
+    siteName: "One Piece TCG Database",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "One Piece TCG Database",
+    description: "Complete One Piece TCG card catalog with search and filtering",
+  },
 };
 
 export default function RootLayout({
