@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "settings": {
+    "name": "one-piece-tcg"
+  },
+  "hooks": {
+    "PostToolUse": [
+      {"match": "Write|Edit", "if": "path.endsWith('.ts') || path.endsWith('.tsx')", "then": ["npx prettier --write {path}"]}
+    ]
+  }
+}
